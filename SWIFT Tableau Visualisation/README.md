@@ -7,7 +7,7 @@
 
 ## Dashboard description
 
-Our dashboard, available on [Tableau Public] (https://public.tableau.com/app/profile/eric.martinet/viz/IronHack-Project6_DataVizTableau/Dashboard), summarises data about cross-border payments based on SWIFT.
+The dashboard summarises data about cross-border payments based on SWIFT.
 
 > The first part, on the left and highlighted in blue, displays the 4 KPIs that any treasury manager will want to see and assess immediately, and a chart about issue forecast.
 
